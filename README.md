@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Daysi Chavarria
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 4 was used in order to become familiar with the Javascript program.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://dmc16b.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about Javascript statements and how they can be made up of things such as keywords or operators.
+2. I learned about arithmetic operators and how to implement them in Javascript.
+3. I also learned about the importance of detail when it comes to working with Javascript in situations where strings can be broken or how addition and concatenation can occur.
 
 
 
